@@ -4,8 +4,10 @@ info I've learned about the DSi hardware, you can use this as a reference if you
 Top Screen
 i numbered the color bits from most to least significant (eg. bit 1 is most significant, bit 6 is least significant)
 
+```
 pin 1 ~15 volts, controls brightness. 13.4V level 1, 13.8v level 2, 14.2v level 3, 14.8v level 4, 15.2v level 5
-------be careful poking at this pin, accidentally shorting this with the adjacent one will turn off ur DS and could cause damage
+------be careful poking at this pin, accidentally shorting this with the
+------adjacent one will turn off ur DS and could cause damage
   pin 2 VDD 480mV
 pin 3 higher freq clock
   pin 4 ~354kHz matches pin 43
@@ -52,6 +54,6 @@ pin 43 ground
 pin 45 3.3v clock matches pin 47
   pin 46 GND
 pin 47 5v clock ~7867hz
-
+```
 
 
