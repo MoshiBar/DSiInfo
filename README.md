@@ -3,7 +3,7 @@ info I've learned about the DSi hardware, you can use this as a reference if you
 
 I'm releasing this info into the public domain, but credit is appreciated if you make use of it
 
-
+-------
 
 Top Screen
 
