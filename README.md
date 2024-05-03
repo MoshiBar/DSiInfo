@@ -10,13 +10,13 @@ pin 1 ~15 volts, controls brightness. 13.4V level 1, 13.8v level 2, 14.2v level 
 ------adjacent one will turn off ur DS and could cause damage
   pin 2 VDD 480mV
 pin 3 higher freq clock
-  pin 4 ~354kHz matches pin 43
+  pin 4 ~354kHz matches pin 10
 pin 5 higher freq clock
-  pin 6 ~354kHz matches pin 43
+  pin 6 ~354kHz matches pin 10
 pin 7 higher freq clock
-  pin 8 ~354kHz matches pin 43
+  pin 8 ~354kHz matches pin 10
 pin 9 higher freq clock
-  pin 10 ~354kHz 45 cycles per cycle on pin 26
+  pin 10 ~354kHz 45 cycles per cycle on pin 47
 pin 11 VDD -5v
   pin 12 10.2V
 pin 13 VDD 5v?
