@@ -65,7 +65,7 @@ DS/DSi refreshes at `59.8261Hz`
 
 new pixel is pushed to the screen approximately every `179ns`
 
-total pixel push time `~45.8us`
+line active time `~45.8us`
 
 new line every `~63.6us`
 
