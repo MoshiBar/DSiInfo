@@ -61,4 +61,12 @@ pin 45 3.3v clock matches pin 47
 pin 47 5v clock ~7867hz
 ```
 
+new pixel is pushed to the screen approximately every 179ns
+total pixel push time `~45.8us`
+new line every `~63.6us`
+HBlank time `~17.8us`
 
+DS/DSi refreshes at `59.8261Hz`
+new frame every `~16.715ms`
+vertical active time is `~12.2ms`
+VBlank time `~4.5ms`
